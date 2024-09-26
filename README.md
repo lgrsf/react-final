@@ -44,14 +44,14 @@ Instalación de librerías y plataformas:
 
 Datos para loguearse a la aplicación por primera vez:
 
-- E-mail: [alejandro.lucas@gallo.com]
+- E-mail: <alejandro.lucas@gallo.com>
 - Contraseña: gallo123
 
 ---
 
 ## Link a la app desplegada en Vercel
 
-[https://ahumaderoushuaia.vercel.app/]
+<https://ahumaderoushuaia.vercel.app/>
 
 ---
 
