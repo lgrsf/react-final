@@ -22,7 +22,7 @@ Alejandro Lucas Gallo - Julio 2022
 
 ## Ejecución
 
-En el directorio del proyecto, la app se ejecuta con `npm start` luego de instalar [npm](https://www.npmjs.com/) con `npm install`. La ruta para visualizarla en el navegador es [http://localhost:3000], donde la página se refrescará automáticamente cada vez que se guarden los cambios realizados en el código.
+En el directorio del proyecto, la app se ejecuta con `npm start` luego de instalar [npm](https://www.npmjs.com/) con `npm install`. La ruta para visualizarla en el navegador es <http://localhost:3000>, donde la página se refrescará automáticamente cada vez que se guarden los cambios realizados en el código.
 
 Instalación de librerías y plataformas:
 
