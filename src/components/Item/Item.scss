@@ -1,0 +1,28 @@
+.cardItem {
+    display: inline-flex;
+    margin:10px;
+}
+
+.cardDesc {
+    font-size: 14px;
+    height:45px;
+}
+
+.detailProduct {
+    width: 50%;
+    height: 35px;
+    text-align: center;
+    margin: 6px auto 0 auto;
+    color: white;
+    background-color: rgb(37, 104, 141);
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.detailProduct:hover {
+    background-color: white;
+    border-color: rgb(22, 22, 57);
+    color: rgb(22, 22, 57);
+    cursor: pointer;
+}

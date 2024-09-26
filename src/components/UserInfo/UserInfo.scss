@@ -1,0 +1,31 @@
+.containerLog {
+    display: flex; 
+    justify-content: flex-end;
+    margin-left: 20px;
+}
+
+.welcomeLog {
+    display: flex; 
+    align-items: center;
+    font-size:14px;
+    font-weight: normal;
+    margin: 10px;
+}
+
+.btnLog {
+    border:1px solid black;
+    border-radius:5px;
+    padding:5px 10px;
+    font-size:14px;
+    margin: 5px 20px 5px 5px;
+}
+
+.btnLog:hover {
+color:white;
+background-color:black;
+border:1px dashed black;
+border-radius:5px;
+padding:5px 10px;
+font-size:14px;
+margin: 5px 20px 5px 5px;
+}

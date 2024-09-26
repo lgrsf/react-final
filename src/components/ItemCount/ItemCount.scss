@@ -1,0 +1,97 @@
+.container {
+    width: 200px;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.producto {
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.controles {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 30px;
+    width: 100%;
+    background-color: white;
+    border: 1px solid rgb(176, 174, 174);
+    border-radius: 5px;
+}
+
+.button1 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    padding: 0px;
+    margin-left: 15px;
+    background-color: white;
+    border: none;
+    color: blue;
+    cursor: pointer;
+}
+
+.button2 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    padding: 0px;
+    margin-right: 15px;
+    background-color: white;
+    border: none;
+    color: blue;
+    cursor: pointer;
+}
+
+.buttonCounter {
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 0px;
+    border: none;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.stock {
+    width: 100%;
+    text-align: center;
+    margin-bottom:10px;
+    color: black;
+    font-size: 12px;
+    border: none;
+}
+
+.btnAddToCart {
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    margin: 6px auto 0 auto;
+    color: white;
+    background-color: rgb(16, 16, 65);
+    font-size: 13px;
+    border-color: rgb(16, 16, 65);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btnAddToCart:hover{
+    background-color: rgb(16, 16, 65);
+    color: white;
+    border-color: rgb(16, 16, 65);
+    cursor: pointer;
+}
+
+.noStock {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 15px 0;
+}
